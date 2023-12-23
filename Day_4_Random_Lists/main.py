@@ -65,7 +65,7 @@ import random as r
 # selected_row[horizontal - 1] = 'X'
 # print(f"{row1}\n{row2}\n{row3}")
 
-#Rock paper scissors
+# Rock paper scissors
 
 # rock = '''
 #     _______
